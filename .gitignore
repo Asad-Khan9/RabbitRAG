@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# uv lockfiles (optional if you don’t want to commit them)
+uv.lock
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
